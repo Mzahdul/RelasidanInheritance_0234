@@ -1,5 +1,7 @@
 #ifndef JANTUNG_H
 #define JANTUNG_H
+#include <iostream>
+using namespace std;
 
 //membuat class jantung di file header jantung.h
 class Jantung {

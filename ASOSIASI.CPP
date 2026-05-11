@@ -48,3 +48,9 @@ public:
     void cetakPasien();
 
 };
+
+//pendefinisian prosedur - prosedur dari class dokter dan class pasien diluar class
+void pasien::tambahDoker(dokter* pDokter) {
+    daftar_dokter.push_back(pDokter);
+};
+

@@ -23,3 +23,7 @@ public:
     }
 
 };
+
+//pembuatan class pelajar sebagai pewaris dari class orang
+class pelajar : public orang {
+public:
